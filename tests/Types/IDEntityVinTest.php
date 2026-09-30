@@ -169,6 +169,7 @@ class IDEntityVinTest extends AbstractIDEntityTestCase
             'WF03XXGCD36Y43748',
             'XWF0AHM75B0002747',
             'A0000000000000001',
+            'LA99182X9S0JYJ219',
         ];
     }
 
