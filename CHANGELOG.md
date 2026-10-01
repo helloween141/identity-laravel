@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog][keepachangelog] and this project adher
 
 ### Changed
 
-- Package `avto-dev/extended-laravel-validator` updated to `dev-master`
+- Package `avto-dev/extended-laravel-validator` updated to `6.1.0`
 
 ## v6.0.1
 
